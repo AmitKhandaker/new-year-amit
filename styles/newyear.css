@@ -25,8 +25,8 @@
 
    text-align: center;
    margin-left: 800px;
-   margin-top: 400px;
-   margin-bottom: 15px;
+   margin-top: 330px;
+   margin-bottom: 10px;
    
   
 
@@ -58,26 +58,26 @@
 
 .section-title{
 
-    margin-left: 200px;
-    margin-top: -430px;
-    margin-bottom: 50px;
+    margin-left: 140px;
+    margin-top: -400px;
+    padding-bottom: 15px;
     text-align: center;
 }
 .section-details{
 
     
-    margin-left: 200px;
+    margin-left: 140px;
     margin-bottom: 30px;
     text-align: center;
    
-    border-color:rgb(222, 181, 132);
     
 }
 .section-description{
 
     margin-left: 658px;
-    margin-top: 30px;
+    margin-top: 20px;
     text-align: left;
+
 }
 .check-image{
 
@@ -144,7 +144,7 @@
    
     margin-top: 200px;
     margin-left: -900px;
-    padding-top: 60px;
+    padding-top: 10px;
 
 }
 
@@ -152,7 +152,7 @@
 
     color: whitesmoke;
     margin-left: -900px;
-    padding-top: 35px;
+    padding-top: 15px;
 
 }
 .email{
@@ -176,6 +176,7 @@
 
     padding: 5px;
     padding-bottom: 20px;
+    background-color: black;
 }
 /* subscribe */
 /* .footer-contact{
@@ -199,19 +200,22 @@
 
 .footer-subscribe-title{
 
-    text-align: center;
-    margin-top: -230px;
-    margin-left: 1030px;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    margin-left: 1770px;
     color: aliceblue;
     font-size: 30px;
+    margin-right: 100px;
+    height: 200px;
+    width: 450px;
 
 }
 .subscribe-email{
     text-align: center;
-    padding-top: 5px;
-    margin-top: 10px;
+    padding: 10px 5px;
+    margin-top: ;
     margin-bottom: 5px;
-    margin-left: 1242px;
+    margin-left: 200px;
     color: aliceblue;
     font-size: large;
     border-radius: 5px;
@@ -221,8 +225,9 @@
 
     height: 30px;
     width: 80px;
-    margin-left:1318px;
-    margin-top: 5px;
+    gap:-2px;
+    margin-left: 350px;
+    margin-top: 2px;
     background-color: brown;
     color: azure;
     border-radius: 5px;

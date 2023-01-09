@@ -11,6 +11,7 @@
     left: 1600px;
     top: 808px;
     display: flex;
+    padding-right: 100px;
     
     
   
@@ -22,8 +23,8 @@
 
 .banner-title{
 
-   
-   margin-left: 865px;
+   text-align: center;
+   margin-left: 800px;
    margin-top: 400px;
    margin-bottom: 15px;
    
@@ -34,41 +35,30 @@
 
     margin-left: 806px;
     margin-bottom: 13px;
-   
+    padding-bottom: 20px;
+    padding-top: 20px;
     text-align: center;
 }
 
 
 .btn-primary{
 
-    
-    margin-left: 930px;
+    margin-left: 950px;
+    padding: 0px 30px;
     text-align: center;
+    text-decoration: solid;
     background-color: blue;
     color: blanchedalmond;
     border-radius: 10px;
     width: 140px;
     height: 60px;
+    font-size: 15px;
 }
-/* header  */
+/* .image2 */
 
-.header{
-
-
-
-
-}
-.image2{
-
-    
-    border-radius: 5px;
-    background-repeat: no-repeat;
-    margin-top: 170px;
-    margin-left: 270px;
-}
 .section-title{
 
-    margin-left: 700px;
+    margin-left: 200px;
     margin-top: -430px;
     margin-bottom: 50px;
     text-align: center;
@@ -76,43 +66,164 @@
 .section-details{
 
     
-    margin-left: 700px;
+    margin-left: 200px;
     margin-bottom: 30px;
     text-align: center;
+   
+    border-color:rgb(222, 181, 132);
+    
 }
 .section-description{
 
-    margin-left: 808px;
-    margin-top: 20px;
+    margin-left: 658px;
+    margin-top: 30px;
     text-align: left;
+}
+.check-image{
+
+    padding-top: 10px;
+    padding-right: 10px;
+   margin-bottom: -5px;
 }
 .main{
 
     margin-top: 600px;
-    margin-left: 200px;
+    margin-left: 270px;
     
     
 }
 .color{
 
-    margin-left: 200px;
+    margin-left: 270px;
     margin-top: -305px;
 }
 .color-details{
 
-    margin-top: -220px;
-    margin-left:-1150px;
+    margin-top: -230px;
+    margin-left:-1100px;
     text-align: center;
     color: rgb(6, 6, 6);
     border-color: antiquewhite;
 
 }
 .btn-primary1{
-    margin-left: 130px;
-    margin-top: 30px;
+    margin-left: 100px;
+    margin-top: 35px;
     color: rgb(245, 244, 241);
     background-color:rgb(18, 17, 17);
     border:-70px;
     border-radius: 15px;
+    width: 100px;
+    height: 60px;
+    font-size: large;
 }
 /* <img src="images/gradient1.png" alt=""> */
+/* image2 */
+
+.image2{
+
+    
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    margin-top: 170px;
+    margin-left: 210px;
+}
+/* footer */
+
+.footer{
+
+    text-align: center;
+    background-color: black;
+  
+}
+
+.footer-title{
+
+
+    color: whitesmoke;
+   
+    margin-top: 200px;
+    margin-left: -900px;
+    padding-top: 60px;
+
+}
+
+.footer-details{
+
+    color: whitesmoke;
+    margin-left: -900px;
+    padding-top: 35px;
+
+}
+.email{
+    color: whitesmoke;
+    margin-left: -900px;
+    padding-top: 20px;
+}
+
+.phone{
+    color: whitesmoke;
+    margin-left: -900px;
+    padding-top: 20px;
+}
+.social-media{
+    
+    margin-left: -900px;
+    margin-top: 3px;
+}
+
+.icon{
+
+    padding: 5px;
+    padding-bottom: 20px;
+}
+/* subscribe */
+/* .footer-contact{
+    
+    
+ 
+}
+.subscribe-title{ */
+    
+    
+    /* margin-top: 200px;
+    margin-left: 1300px; */
+
+/* .btn-primary2{
+    height: 40px;
+    width: 100px;
+    border: 5px;
+    background-color: goldenrod;
+    color: rgb(50, 5, 5);
+    margin-left: 0px; */
+
+.footer-subscribe-title{
+
+    text-align: center;
+    margin-top: -230px;
+    margin-left: 1030px;
+    color: aliceblue;
+    font-size: 30px;
+
+}
+.subscribe-email{
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 1242px;
+    color: aliceblue;
+    font-size: large;
+    border-radius: 5px;
+
+}
+.btn-primary3{
+
+    height: 30px;
+    width: 80px;
+    margin-left:1318px;
+    margin-top: 5px;
+    background-color: brown;
+    color: azure;
+    border-radius: 5px;
+}

@@ -58,24 +58,24 @@
 
 .section-title{
 
-    margin-left: 140px;
+    margin-left: 240px;
     margin-top: -400px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     text-align: center;
 }
 .section-details{
 
     
-    margin-left: 140px;
-    margin-bottom: 30px;
+    margin-left: 240px;
+    margin-bottom: 10px;
     text-align: center;
    
     
 }
 .section-description{
 
-    margin-left: 658px;
-    margin-top: 20px;
+    margin-left: 540px;
+    margin-top: 15px;
     text-align: left;
 
 }
@@ -100,7 +100,7 @@
 .color-details{
 
     margin-top: -230px;
-    margin-left:-1100px;
+    margin-left:-750px;
     text-align: center;
     color: rgb(6, 6, 6);
     border-color: antiquewhite;
